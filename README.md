@@ -1,4 +1,4 @@
-# sql-joins-internship-task
+# sql-joins
 SQL Intermediate Joins using Chinook Database
 # SQL Intermediate – Joins Internship Task
 
